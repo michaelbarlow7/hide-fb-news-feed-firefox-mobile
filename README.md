@@ -11,3 +11,5 @@ It's probably not very efficient, I'm not sure if it still downloads images etc 
 To build and run this app, run the following command:
 
 `jpm-mobile run --adb path/to/adb -b firefox`
+
+I used ideas (and a tiny bit of code) from [News Feed Eradicator](https://github.com/jordwest/news-feed-eradicator/).
