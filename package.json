@@ -1,0 +1,13 @@
+{
+  "title": "Hide Facebook News Feed",
+  "name": "hide-feed",
+  "version": "1.0.0",
+  "description": "An add-on designed for Firefox on Android to block the Facebook news feed",
+  "main": "index.js",
+  "author": "Michael Barlow",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT"
+}
